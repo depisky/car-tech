@@ -1,5 +1,5 @@
- import cv2
- import threading
+import cv2
+import threading
 
 
 # def stop_pls():
@@ -7,8 +7,9 @@
 
 
 # def unpause_video():
-#     global paused
-#     paused = False
+paused = False
+
+
 
 
 # paused = False
